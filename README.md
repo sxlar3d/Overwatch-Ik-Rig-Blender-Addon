@@ -30,3 +30,5 @@ Upcoming changes:
 5. Adding a button in the panel that which be a shortcut to enabling or disabling Ik and Fk For Each Inverse kinematics bone.
 
 Any ideas or suggestions, or feedback are appreciated!
+
+*also follow my twitter l o l: sxlar3d*
