@@ -22,7 +22,7 @@ Bugs:
 
 3. Non human like characters (Rammattra, Orisa, Etc) doesnt fully have the ik rig as they have a extra set of bones as they have multiple legs/arms. This will be fixed in the upcoming update/updates.
 
-4. Sometimes the Root bone doesnt scale it, this is due to some root bones being sized differently and when scaled up it just isnt big like its supposed to, to fix you can just go to pose select the root bone at the very bottom, and go to bone properties, and then go to viewport display > custom shape, and then change the scale xyz values to a VERY high number like around 500-700, if thats to big then youc an always scale it to your liking.
+4. Sometimes the Root bone doesnt scale up, this is due to some root bones being sized differently and when scaled up it just isnt big like its supposed to, to fix you can just go to pose select the root bone at the very bottom, and go to bone properties, and then go to viewport display > custom shape, and then change the scale xyz values to a VERY high number like around 500-700, if thats to big then youc an always scale it to your liking.
 
 Upcoming changes:
 1. Adding singular buttons for each non human character that will make a unique rig for them
