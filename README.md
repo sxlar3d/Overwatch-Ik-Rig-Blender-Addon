@@ -1,7 +1,7 @@
 # Overwatch-Ik-Rig-Blender-Addon
 Generates a ik rig for overwatch models extracted from datatool/datawatch 
 
-To Install, Download the recent zip file, and go in blender and go to edit > preferences > addons > install and install the zip file and enable it.
+To Install, Download the recent zip file (just select it under the readme file and click download), and go in blender and go to edit > preferences > addons > install and install the zip file and enable it.
 
 Once installed it will pop up on the side of the sidebar and to create the ik just select the armature on a character in object mode and press "Create Ik"
 
