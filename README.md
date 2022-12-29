@@ -16,7 +16,9 @@ Note: This is version 1. i still need to add and update things, below are some b
 Bugs: 
 1. Female characters right leg will look twisted, to fix just go to pose mode, select the foot_r bone and go to the bone constraint properties and set the pole angle to 0. of course if the leg does not look twisted for you theres no need for changing it.
 
-2. (Female characters again) when raising the foot_r bone directly upwards with no moving to the sides or anything, it gliches out and does not really go to where it needs to be, to fix you can just rotate the foot_r bone till the leg looks gets to the right spot.
+2. (Female characters again) when raising the ik_foot_r/l bone directly upwards with no moving to the sides or anything, it gliches out and does not really go to where it needs to be and rotates out of no where, to fix you can just rotate the foot_r/l bone till the leg looks gets to the right spot.
+
+(Bug 2) at the moment i dont see this really being a problem, but if it gets to bad for people i can always *try* and fix it for female characters, probably would be impossible due to the names being the same as males. but im sure i can make it work, but once again it isnt that bad all you have to do is just rotate the foot_r bone, till the bone is rotated correctly. 
 
 3. Non human like characters (Rammattra, Orisa, Etc) doesnt fully have the ik rig as they have a extra set of bones as they have multiple legs/arms. This will be fixed in the upcoming update/updates.
 
