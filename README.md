@@ -1,3 +1,5 @@
+(WORKING ON NEXT UPDATE NOW AS OF 1/4/2023)
+
 # Overwatch-Ik-Rig-Blender-Addon
 Generates a ik rig for overwatch models extracted from datatool/datawatch 
 
