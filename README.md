@@ -1,4 +1,10 @@
-(WORKING ON NEXT UPDATE NOW AS OF 1/4/2023)
+UPDATE 1.1.0 IS OUT! MAKE SURE TO DOWNLOAD THE 1.1.0 VERSION!
+
+Patch Notes:
+Added a Unique Rig for Orisa (She has 4 legs, so 4 leg rigs)
+Added a Unique Rig for Junkrat (not really unique just had to change something for him so he counts)
+Added a eye rig! (Move the "eye_follow" bone to make the eye focus on where it moves, and for more control theres two more bones right next to eye_control bone that lets you control each eye on its own, you can also move the eyelids up or down in any way and it will still work, the eyelids move with the eyes)
+Renamed a bit more bones (Jaw and leg_r/l, Added a new bone look for the jaw)
 
 # Overwatch-Ik-Rig-Blender-Addon
 Generates a ik rig for overwatch models extracted from datatool/datawatch 
@@ -22,16 +28,13 @@ Bugs:
 
 (Bug 2) at the moment i dont see this really being a problem, but if it gets to bad for people i can always *try* and fix it for female characters, probably would be impossible due to the names being the same as males. but im sure i can make it work, but once again it isnt that bad all you have to do is just rotate the foot_r bone, till the bone is rotated correctly. 
 
-3. Non human like characters (Rammattra, Orisa, Etc) doesnt fully have the ik rig as they have a extra set of bones as they have multiple legs/arms. This will be fixed in the upcoming update/updates.
-
 4. Sometimes the Root bone doesnt scale up, this is due to some root bones being sized differently and when scaled up it just isnt big like its supposed to, to fix you can just go to pose select the root bone at the very bottom, and go to bone properties, and then go to viewport display > custom shape, and then change the scale xyz values to a VERY high number like around 500-700, if thats to big then youc an always scale it to your liking.
 
 Upcoming changes:
-1. Adding singular buttons for each non human character that will make a unique rig for them
-2. renaming more bones and changing the look of more of them
-3. Adding a eye rig
-4. Adding a facial rig (probably wont be anytime in the upcoming weeks)
-5. Adding a button in the panel that which be a shortcut to enabling or disabling Ik and Fk For Each Inverse kinematics bone.
+1. Adding more singular buttons for each non human character that will make a unique rig for them
+2. renaming more bones and changing the look of more of them 
+3. Adding a facial rig (probably wont be anytime in the upcoming weeks)
+4. Adding a button in the panel that which be a shortcut to enabling or disabling Ik and Fk For Each Inverse kinematics bone.
 
 Any ideas or suggestions, or feedback are appreciated!
 
