@@ -6,6 +6,8 @@ Added a Unique Rig for Junkrat (not really unique just had to change something f
 Added a eye rig! (Move the "eye_follow" bone to make the eye focus on where it moves, and for more control theres two more bones right next to eye_control bone that lets you control each eye on its own, you can also move the eyelids up or down in any way and it will still work, the eyelids move with the eyes)
 Renamed a bit more bones (Jaw and leg_r/l, Added a new bone look for the jaw)
 
+Whats next: Rammatra unique rig, rig for the fingers, renaming more bones, maybe ik/fk enbale/disable button?
+
 # Overwatch-Ik-Rig-Blender-Addon
 Generates a ik rig for overwatch models extracted from datatool/datawatch 
 
