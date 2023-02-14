@@ -20,7 +20,7 @@ This will Create A Ik rig for the selected character.
 
 Bones are renamed to be easier to know what you're selecting, along with changing the look of the bones.
 
-Important Bones for the Ik: Ik_foot_l/r (Moves the legs), Ik_hand_r/l (Moves the entire arms), Pole_arm_r/l (moving this bone will move the direction of elbow), Pole_leg_r/l (moving this bone will move the direction of the knee)
+Important Bones for the Ik: Ik_foot_l/r (Moves the legs), Ik_hand_r/l (Moves the entire arms), Pole_arm_r/l (moving this bone will move the direction of elbow), Pole_leg_r/l (moving this bone will move the direction of the knee), eye_follow_r (a bone that the right eye will follow), eye_follow_l (a bone that the left eye will follow) eye_follow, (a bone that both eyes will follow.
 
 Note: This is version 1. i still need to add and update things, below are some bugs and upcoming changes to the addon.
 
